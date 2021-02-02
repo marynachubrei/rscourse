@@ -1,1 +1,1 @@
-# rscourse
+# rsschool-cv
